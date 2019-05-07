@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sai Subhakar T | saimj7</title>
+    <link>https://saimj7.github.io/publication/</link>
+    <description>Recent content on Sai Subhakar T | saimj7</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Sai Subhakar T 2019</copyright>
+    <lastBuildDate>Thu, 11 Apr 2019 20:47:12 +0530</lastBuildDate>
+    
+	<atom:link href="https://saimj7.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Driving: Traffic Sign Classification</title>
+      <link>https://saimj7.github.io/publication/autonomous-driving-traffic-sign-classification/</link>
+      <pubDate>Thu, 11 Apr 2019 20:47:12 +0530</pubDate>
+      
+      <guid>https://saimj7.github.io/publication/autonomous-driving-traffic-sign-classification/</guid>
+      <description>Our research areas include enhancement in low light/noisy conditions by adding Recurrent Neural Network (RNN) connections, and contribution to a universal-regional dataset with Generative Adversarial Networks (GANs). The results obtained on the test data are comparable to the state-of-the-art models and we reached accuracies above 98% after performance evaluation in different frameworks.</description>
+    </item>
+    
+  </channel>
+</rss>

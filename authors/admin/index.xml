@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sai Subhakar T | saimj7</title>
+    <link>https://saimj7.github.io/authors/admin/</link>
+    <description>Recent content on Sai Subhakar T | saimj7</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Sai Subhakar T 2019</copyright>
+    
+	<atom:link href="https://saimj7.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://saimj7.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saimj7.github.io/authors/admin/</guid>
+      <description>Hi! I&amp;rsquo;m an AI enthusiast with good knowledge in the areas of machine learning and experience in building AI for the perception of self-driving cars, with a focus on deep learning, computer vision and image processing! Since I was a kid, I love cars as much as I love my family! That&amp;rsquo;s right, there&amp;rsquo;s no trade-off. After a big deal of talking with myself, motivated to develop software for Autonomous and Electric vehicles.</description>
+    </item>
+    
+  </channel>
+</rss>

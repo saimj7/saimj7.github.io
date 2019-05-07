@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sai Subhakar T | saimj7</title>
+    <link>https://saimj7.github.io/</link>
+    <description>Recent content on Sai Subhakar T | saimj7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Sai Subhakar T 2019</copyright>
+    <lastBuildDate>Tue, 07 May 2019 22:14:39 +0530</lastBuildDate>
+    
+	    <atom:link href="https://saimj7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Object Detection in Real-Time With a Webcam</title>
+      <link>https://saimj7.github.io/project/object-detection-in-real-time-with-a-webcam/</link>
+      <pubDate>Tue, 07 May 2019 22:14:39 +0530</pubDate>
+      
+      <guid>https://saimj7.github.io/project/object-detection-in-real-time-with-a-webcam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Detection in Real-Time with a Webcam</title>
+      <link>https://saimj7.github.io/project/face-detection-in-real-time-with-a-webcam/</link>
+      <pubDate>Tue, 07 May 2019 22:09:09 +0530</pubDate>
+      
+      <guid>https://saimj7.github.io/project/face-detection-in-real-time-with-a-webcam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANs with Recurrent Connections</title>
+      <link>https://saimj7.github.io/project/indian-traffic-sign-generation-with-gans/</link>
+      <pubDate>Tue, 07 May 2019 21:56:13 +0530</pubDate>
+      
+      <guid>https://saimj7.github.io/project/indian-traffic-sign-generation-with-gans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and Tracking Lane Lines on the Road</title>
+      <link>https://saimj7.github.io/project/detecting-and-tracking-lane-lines-on-the-road/</link>
+      <pubDate>Tue, 07 May 2019 21:50:45 +0530</pubDate>
+      
+      <guid>https://saimj7.github.io/project/detecting-and-tracking-lane-lines-on-the-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Driving: Traffic Sign Classification</title>
+      <link>https://saimj7.github.io/publication/autonomous-driving-traffic-sign-classification/</link>
+      <pubDate>Thu, 11 Apr 2019 20:47:12 +0530</pubDate>
+      
+      <guid>https://saimj7.github.io/publication/autonomous-driving-traffic-sign-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
